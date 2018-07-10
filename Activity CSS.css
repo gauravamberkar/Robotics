@@ -1,0 +1,29 @@
+ li.female{
+    color: blue;
+}
+
+ li.male{
+    color: red;
+}
+.female.bold{
+    font-weight: bold;
+    
+}
+ol>.ita{
+    font-style: italic;
+}
+#middlemarch{
+    list-style-type: lower-roman;
+    padding: 2em;
+    line-height: 2em;
+    margin-left: 3em;
+    text-decoration: underline;
+}
+#taletwocities{
+    list-style-type: lower-alpha;
+}
+
+body{
+    font-family: Tahoma;
+}
+
